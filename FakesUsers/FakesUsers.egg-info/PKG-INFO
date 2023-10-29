@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: FakesUsers
+Version: 1.0
+Summary: FakesUsers - Python library that regenerates random names, phone numbers and addresses. For now, only the Russian generation is available, but over time we will add other generations.
+Author-email: filcher2011@mail.ru

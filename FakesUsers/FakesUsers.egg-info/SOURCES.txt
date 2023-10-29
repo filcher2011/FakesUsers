@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+FakesUsers/FakeUsers.py
+FakesUsers/__init__.py
+FakesUsers.egg-info/PKG-INFO
+FakesUsers.egg-info/SOURCES.txt
+FakesUsers.egg-info/dependency_links.txt
+FakesUsers.egg-info/not-zip-safe
+FakesUsers.egg-info/top_level.txt
